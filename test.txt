@@ -1,2 +1,3 @@
 this is a simple test file
-welcome to java FSD hhhh
+welcome to java FSD hhhh(after 1stcommit)
+making some chanbges in the file(afrer 2ndcommit)
